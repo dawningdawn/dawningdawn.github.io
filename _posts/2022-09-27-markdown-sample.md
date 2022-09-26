@@ -2,6 +2,7 @@
 layout: post
 title:  "Markdown sample"
 date:   2022-09-27
+categories: writing
 ---
 
 ### Markdown test document
