@@ -17,8 +17,8 @@ title: Swiss Jekyll Theme
 description: A bold typographic theme inspired by Swiss design.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dawningdawn.github.io"
-github_repo: jekyll # the GitHub repo name for your project
-github_username: jekyll
+github_repo: dawningdawn.github.io # the GitHub repo name for your project
+github_username: dawningdawn
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
