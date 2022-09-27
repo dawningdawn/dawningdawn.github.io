@@ -31,3 +31,4 @@ theme_color: gray
 
 # Build settings
 markdown: kramdown
+future: true
