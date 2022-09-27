@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Markdown sample"
+title:  "Can Machines Think?"
 date:   2022-09-27
 categories: writing
 published: true
