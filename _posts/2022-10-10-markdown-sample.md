@@ -8,10 +8,9 @@ published: true
 
 _First published Oct 10, 2022_ 
 
-In the beginning, there was _something_. 
-Something called the initial singularity*. 
-It contained all the energy and spacetime of the Universe. 
-At least that's what some models of the Big Bang theory predicts to have existed before the Big Bang.
+* In the beginning, there was _something_. Something called the initial singularity*. 
+* It contained all the energy and spacetime of the Universe. 
+* At least that's what some models of the Big Bang theory predicts to have existed before the Big Bang.
 
   Usually, singularity refers to a condition where gravity is so strong that spacetime breaks down. 
   Singularity is still poorly-defined, even according to the current best theory of gravity, the theory of general relativity. 
