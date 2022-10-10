@@ -8,7 +8,7 @@ published: true
 
 _First published Oct 10, 2022_ 
 
-* In the beginning, there was _something_. _Something_ called the initial singularity*. 
+* In the beginning, there was _something_. That _something_ was the initial singularity*. 
 * It contained all the energy and spacetime** of the Universe. 
 * At least that's what some models of the Big Bang theory predicts to have existed before the Big Bang.
 
@@ -18,15 +18,15 @@ _First published Oct 10, 2022_
   However, initial singularity did not collapse into a black hole, because the spacetime was rapidly expanding. 
   (Currently-known density limits for gravitational collapse are based on objects of relatively constant size in time.)</small>
 
-  **Unlike energy that can be tranformed into matter, spacetime is not a physical object, but a mathematical model. (This does not mean it is not _real_.)
+  <small>**Unlike energy that can be tranformed into matter, spacetime is not a physical object, but a mathematical model. (This does not mean it is not _real_.)
   It is a four-dimensional manifold that has the three dimensions of space and one dimension of time. 
-  It’s also a differentiable manifold with a pseudo-Riemannian metric.
+  It’s also a differentiable manifold with a pseudo-Riemannian metric.</small>
 
 # The First 20 Minutes
 
-The instant immediately following the initial singularity is the infamous Big Bang, and the **Plank epoch** (0s ~ 10<sup>-43</sup>). 
+The instant immediately following the initial singularity is the infamous Big Bang, and the **Plank epoch** (0s~10<sup>-43</sup>s). 
 Then, the gravitational force and the unified force (electromagnetic force, weak force, strong force) were all one.
-In the **grand unification epoch** (10<sup>-43</sup>s ~ 10<sup>-36</sup>s), graviational force gets seperated from the unified force. 
+In the **grand unification epoch** (10<sup>-43</sup>s~10<sup>-36</sup>s), graviational force gets seperated from the unified force. 
 There is still no matter in this stage. So no mass, charge, flavor, or color change.
 
 ### Markdown test document
