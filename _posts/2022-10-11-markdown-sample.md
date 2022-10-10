@@ -6,7 +6,7 @@ categories: writing
 published: true
 ---
 
-_First published Oct 10, 2022_ 
+_First published Oct 11, 2022_ 
 
 * In the beginning, there was _something_. That _something_ was the initial singularity*. 
 * It contained all the energy and spacetime** of the Universe. 
