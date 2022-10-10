@@ -8,12 +8,17 @@ published: true
 
 _First published Oct 10, 2022_ 
 
+
 In the beginning, there was something. Something called the initial singularity. It contained all the energy and spacetime of the Universe. At least that's what some models of the Big Bang theory predicts to have existed before the Big Bang.
 
 Usually, singularity refers to a condition where gravity is so strong that spacetime breaks down. (Singularity is still poorly-defined, even according to the current best theory of gravity, the theory of general relativity.) General relativity predicts that any object that goes through gravitational collapse beyond a certain point, forms a black hole inside which singularity is formed. However, initial singularity did not collapse into a black hole, because the spacetime was rapidly expanding. (Currently-known density limits for gravitational collapse are based on objects of relatively constant size in time.)
 
-Unlike energy that can be tranformed into matter($E=mc^2$), spacetime is not a physical object, but a mathematical model. (This does not mean it is not real.) It is a four-dimensional manifold that has the three dimensions of space and one dimension of time. It’s also a differentiable manifold with a pseudo-Riemannian metric.
+Unlike energy that can be tranformed into matter, spacetime is not a physical object, but a mathematical model. (This does not mean it is not real.) It is a four-dimensional manifold that has the three dimensions of space and one dimension of time. It’s also a differentiable manifold with a pseudo-Riemannian metric.
 
+# The First 20 Minutes
+
+The instant immediately following the initial singularity is the infamous Big Bang, and the **Plank epoch**(0s ~ 10^{-43}s). Then, the gravitational force and the unified force (electromagnetic force, weak force, strong force) were all one.
+In the **grand unification epoch**(10^{-43} s ~ 10^{-36} s), graviational force gets seperated from the unified force. There is still no matter in this stage. So no mass, charge, flavor, or color change.
 
 ### Markdown test document
 
