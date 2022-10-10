@@ -8,7 +8,7 @@ published: true
 
 _First published Oct 10, 2022_ 
 
-* In the beginning, there was _something_. _Something_ called the initial singularity.* 
+* In the beginning, there was _something_. _Something_ called the initial singularity*. 
 * It contained all the energy and spacetime** of the Universe. 
 * At least that's what some models of the Big Bang theory predicts to have existed before the Big Bang.
 
