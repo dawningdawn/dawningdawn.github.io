@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "From the Big Bang to Life"
+title:  "From Big Bang <br> to Life"
 date:   2022-10-10
 categories: writing
 published: true
