@@ -24,9 +24,9 @@ _First published Oct 10, 2022_
 
 # The First 20 Minutes
 
-The instant immediately following the initial singularity is the infamous Big Bang, and the **Plank epoch** (0s~10<sup>-43</sup>s). 
+The instant immediately following the initial singularity is the infamous Big Bang, and the **Plank epoch** (0s ~ 10<sup>-43</sup>s). 
 Then, the gravitational force and the unified force (electromagnetic force, weak force, strong force) were all one.
-In the **grand unification epoch** (10<sup>-43</sup>s~10<sup>-36</sup>s), graviational force gets seperated from the unified force. 
+In the **grand unification epoch** (10<sup>-43</sup>s ~ 10<sup>-36</sup>s), graviational force gets seperated from the unified force. 
 There is still no matter in this stage. So no mass, charge, flavor, or color change.
 
 ### Markdown test document
